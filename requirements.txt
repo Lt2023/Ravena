@@ -1,0 +1,5 @@
+tensorflow-cpu==2.11.0
+numpy==1.23.5
+jieba==0.42.1
+termcolor==2.3.0
+tqdm==4.64.1
